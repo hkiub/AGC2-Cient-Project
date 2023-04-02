@@ -34,3 +34,14 @@ The scatter plots help to illustrate the relative significance of each ability f
 On average, Physicists require the highest level of ability for their jobs, while models require the least.
 Another graph shows the average importance of different abilities across all jobs, with 'Oral Comprehension' being the most desired ability at the highest level, and 'Dynamic flexibility' being the least important.
 """)
+
+st.image('imgs/img7.png')
+st.image('imgs/img8.png')
+st.write("""
+Table : Skills 
+Plot type : Scatter
+- The Scatter plot visualizes the Skills table that describes the necessary skills for different occupations. The 'Level' and 'Importance' columns have been used to represent the importance of each skill required by the job titles.
+- The scatter plot reveals that, on average, Manufacturing Engineers need the highest level of skills, whereas ‘Packagers’ require the least.
+- Another graph displays the average significance of various skills across all job titles. The graph indicates that 'Active Listening' is the most crucial skill required at the highest level, while 'Installation' is the least important.
+
+""")
